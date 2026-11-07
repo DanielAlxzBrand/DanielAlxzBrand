@@ -39,6 +39,6 @@
 
 <div align="center">
 
-*Construyendo pipelines y validando cada dato con evidencia, entre un commit y otro.* 📊
+*Construyendo pipelines y validando cada dato con evidencia, entre un commit y otro.* 
 
 </div>
